@@ -1,0 +1,325 @@
+{
+    "lab": {
+        "name": "化工製程技術實驗室",
+        "phone": "(02)2733-3141#7605",
+        "email": "",
+        "location": "工程二館 E2-504",
+        "access_time": "週一至週五 09:00-17:00",
+        "university": {
+            "name": "國立臺灣科技大學",
+            "logo": "/assets/images/logo.png",
+            "website": "https://www.ntust.edu.tw",
+            "address": "10607 台北市大安區忠孝東路四段43號",
+            "phone": "02-1234-5678"
+        },
+        "college": {
+            "name": "工學院",
+            "website": "https://www.ntust.edu.tw/college/engineering"
+        },
+        "department": {
+            "name": "化學工程系",
+            "website": "https://www.ntust.edu.tw/department/chemical-engineering"
+        },
+        "pi": {
+            "name": "游承修",
+            "title": "助理教授",
+            "image": "/assets/images/c22f0676228e2a561f72724a53d418b7.png",
+            "phone": "(02)2737-6614",
+            "email": "chenghsiu.yu@mail.ntust.edu.tw",
+            "location": "工程二館 E2-611",
+            "location_link": "https://maps.app.goo.gl/AAnKas88YL7VsKne8",
+            "google_scholar": "https://scholar.google.com/scholar?q=游承修",
+            "description": "指導教授描述"
+        },
+        "description": "致力於二氧化碳捕捉、熱物性質量測、相平衡模擬及製程強化的尖端研究",
+        "members_order": ["碩二", "碩一", "碩零", "專題生", "已畢業"],
+        "members_all": "全部",
+        "members": [
+            {
+                "name": "黃光峻",
+                "titles": ["碩二"],
+                "image": "/assets/images/94cae135371bf637a8023f9aad3923a8.jpg",
+                "email": "11206qazwsxedc@gmail.com",
+                "email_edu": "M11206050@mail.ntust.edu.tw",
+                "research": "Blade & baffles RPB模擬及Hydraulic 分析",
+                "bio": ""
+            },
+            {
+                "name": "羅玥騏",
+                "titles": ["碩二"],
+                "image": "/assets/images/e46204931e33ecfbebd47f7796c8c312.jpeg",
+                "email": "luo5718805@gmail.com",
+                "email_edu": "M11206113@mail.ntust.edu.tw",
+                "research": "使用Aspen Plus進行二氧化碳捕捉模擬操作以及質量傳遞相關研究",
+                "bio": ""
+            },
+            {
+                "name": "賴靖方",
+                "titles": ["碩二"],
+                "image": "/assets/images/244b52c6d270ae7fc5825536556aaa34.jpg",
+                "email": "jingfang0221@gmail.com",
+                "email_edu": "M11206142@mail.ntust.edu.tw",
+                "research": "探討旋轉填充床中CO2化學吸收之溫度分佈",
+                "bio": ""
+            },
+            {
+                "name": "陳佳恬",
+                "titles": ["碩二"],
+                "image": "/assets/images/cf72eb71607773a9764bf042c89928be.jpeg",
+                "email": "Jiatean@gmail.com",
+                "email_edu": "M11206804@mail.ntust.edu.tw",
+                "research": "旋轉填充床中有效接觸面積之經驗式建立",
+                "bio": ""
+            },
+            {
+                "name": "吳櫂珅",
+                "titles": ["碩二"],
+                "image": "/assets/images/66473c7fc6e373ec711f7349d7553a79.jpg",
+                "email": "sean890728@gmail.com",
+                "email_edu": "M11206004@mail.ntust.edu.tw",
+                "research": "平衡板及質傳速率模型對旋轉填充床中之二氧化碳吸收劑再生模擬與分析",
+                "bio": ""
+            },
+            {
+                "name": "黃春穆",
+                "titles": ["碩一"],
+                "image": "/assets/images/1dfc06983b7bba912fd102c2badf9f6d.jpeg",
+                "email": "murry901028@gmail.com",
+                "email_edu": "M11306018@mail.ntust.edu.tw",
+                "research": "1.乳酸乙酯動力學模型建立<br />2.旋轉填充床產乳酸乙酯之反應蒸餾",
+                "bio": ""
+            },
+            {
+                "name": "周國鼎",
+                "titles": ["碩一"],
+                "image": "/assets/images/eb9349b693bea4715ed9e4574431890e.jpeg",
+                "email": "a37939922@gmail.com",
+                "email_edu": "M11306114@mail.ntust.edu.tw",
+                "research": "旋轉填充床吸收碳捕捉技術與質傳性能分析",
+                "bio": ""
+            },
+            {
+                "name": "蕭于紘",
+                "titles": ["碩一"],
+                "image": "/assets/images/e8ed04c12674693952c107c5daf007bb.jpg",
+                "email": "chris901114@gmail.com",
+                "email_edu": "M11306003@mail.ntust.edu.tw",
+                "research": "鑑定NaOAc於H2O-ACN混合溶劑之晶型，探討不同溶劑組成比例、系統溫度等變因對NaOAc晶型的影響",
+                "bio": ""
+            },
+            {
+                "name": "沈謀雄",
+                "titles": ["碩一"],
+                "image": "/assets/images/6759a00dce36f47955202537ef57045e.jpeg",
+                "email": "joesephm49@gmail.com",
+                "email_edu": "M11306804@mail.ntust.edu.tw",
+                "research": "Effects of Viscosity on Mass Transfer Coefficient in a Rotating Packed Bed",
+                "bio": ""
+            },
+            {
+                "name": "林柏陞",
+                "titles": ["碩一"],
+                "image": "/assets/images/062705272e19e365ee400ffa8b314c2e.png",
+                "email": "ascz0961184828@gmail.com",
+                "email_edu": "M11306041@mail.ntust.edu.tw",
+                "research": "強鹼溶液於超重力旋轉床進行碳捕捉之模擬",
+                "bio": ""
+            },
+            {
+                "name": "黃凱稘",
+                "titles": ["碩零"],
+                "image": "/assets/images/6b9745b80e0a70f7300e51940ec34d59.jpeg",
+                "email": "kelly98099@gmail.com",
+                "email_edu": "",
+                "research": "",
+                "bio": ""
+            },
+            {
+                "name": "李柔靚",
+                "titles": ["碩零"],
+                "image": "/assets/images/4eaef7478509a35cad9c5bcf94cf743e.jpeg",
+                "email": "mirojing22@gmail.com",
+                "email_edu": "B11006129@mail.ntust.edu.tw",
+                "research": "MEA 溶劑的再生",
+                "bio": ""
+            },
+            {
+                "name": "林芷誼",
+                "titles": ["碩零"],
+                "image": "/assets/images/3dbe79e6dfabb25e46ba2d0fb130cf4b.jpg",
+                "email": "chih.yi.0918@gmail.com",
+                "email_edu": "B11006117@mail.ntust.edu.tw",
+                "research": "相平衡不確定性對蒸餾製程的影響",
+                "bio": ""
+            }, {
+                "name": "陸瑋倫",
+                "titles": ["已畢業"],
+                "image": "/assets/images/a79cc22adcd05494957317082f2cb8ec.jpeg",
+                "email": "bboyallen8645@gmail.com",
+                "email_edu": "m11106003@mail.ntust.edu.tw",
+                "research": "變壓吸附捕碳之模擬",
+                "bio": ""
+            }, {
+                "name": "胡淀瑜",
+                "titles": ["已畢業"],
+                "image": "/assets/images/a48f4198339d3a89fca1eb901e77faff.jpg",
+                "email": "qq465047@gmail.com.tw",
+                "email_edu": "M11106047@mail.ntust.edu.tw",
+                "research": "鹽溶液熱力學及輸送性質",
+                "bio": ""
+            }, {
+                "name": "陳柏宇",
+                "titles": ["專題生"],
+                "image": "/assets/images/2d20c9f689a80314274c9629eddf912d.jpg",
+                "email": "chenllov@gmail.com",
+                "email_edu": "B11106117@mail.ntust.edu.tw",
+                "research": "",
+                "bio": ""
+            }, {
+                "name": "何岳樺",
+                "titles": ["專題生"],
+                "image": "/assets/images/4a358e59470d0945d583f6e0982fe80c.jpg",
+                "email": "b11006020@gmail.com",
+                "email_edu": "b11006020@mail.ntust.edu.tw",
+                "research": "",
+                "bio": ""
+            }
+        ]
+    },
+    "nav": {
+        "home": "首頁",
+        "pi": "指導教授",
+        "members": "成員",
+        "research": "研究領域",
+        "publications": "文獻發表"
+    },
+    "home": {
+        "introduction": {
+            "title": "實驗室簡介",
+            "content": "國立臺灣科技大學化學工程所游承修教授的化工製程技術實驗室，專注於開發創新解決方案，應對當代化學工程的挑戰。我們的研究結合了實驗測量與理論模擬，以促進化工製程的效率、環保性及經濟效益。我們致力於培養學生在化學工程領域的專業知識和解決問題的能力，並與國內外學術界和產業界保持密切合作，共同推動相關領域的技術發展。",
+            "carousel": [
+                {
+                    "title": "First slide label",
+                    "description": "Some representative placeholder content for the first slide.",
+                    "image": "/assets/pixabay/ai-generated-9025532.jpg"
+                },
+                {
+                    "title": "Second slide label",
+                    "description": "Some representative placeholder content for the second slide.",
+                    "image": "/assets/pixabay/analysis-3707159.jpg"
+                },
+                {
+                    "title": "Third slide label",
+                    "description": "Some representative placeholder content for the third slide.",
+                    "image": "/assets/pixabay/science-6566158.svg"
+                }
+            ]
+        },
+        "announcement": {
+            "title": "公告欄",
+            "content": "歡迎來到我們的實驗室網站！我們將定期更新最新消息和研究成果，敬請關注！"
+        },
+        "activities": [
+            {
+                "title": "實驗室活動",
+                "description": "我們定期舉辦各種學術交流活動，包括研討會、工作坊和實驗室開放日，歡迎大家參加！",
+                "image": "/assets/activities/45df9cd1f11579aac2d9455d8da83df2.jpg"
+            }
+        ]
+    },
+    "research": {
+        "title": "研究領域",
+        "equipment": {
+            "title": "專業設備",
+            "carousel": [
+                {
+                    "image": "/assets/equipments/(1).jpg"
+                },
+                {
+                    "image": "/assets/equipments/(2).jpg"
+                },
+                {
+                    "image": "/assets/equipments/(3).jpg"
+                },
+                {
+                    "image": "/assets/equipments/(4).jpg"
+                },
+                {
+                    "image": "/assets/equipments/(5).jpg"
+                },
+                {
+                    "image": "/assets/equipments/(6).jpg"
+                },
+                {
+                    "image": "/assets/equipments/(7).jpg"
+                },
+                {
+                    "image": "/assets/equipments/(8).jpg"
+                },
+                {
+                    "image": "/assets/equipments/(9).jpg"
+                },
+                {
+                    "image": "/assets/equipments/(10).jpg"
+                },
+                {
+                    "image": "/assets/equipments/(11).jpg"
+                },
+                {
+                    "image": "/assets/equipments/(12).jpg"
+                },
+                {
+                    "image": "/assets/equipments/(13).jpg"
+                },
+                {
+                    "image": "/assets/equipments/(14).jpg"
+                },
+                {
+                    "image": "/assets/equipments/(15).jpg"
+                },
+                {
+                    "image": "/assets/equipments/(16).jpg"
+                },
+                {
+                    "image": "/assets/equipments/(17).jpg"
+                },
+                {
+                    "image": "/assets/equipments/(18).jpg"
+                },
+                {
+                    "image": "/assets/equipments/(19).jpg"
+                },
+                {
+                    "image": "/assets/equipments/(20).jpg"
+                },
+                {
+                    "image": "/assets/equipments/(21).jpg"
+                }
+            ]
+        }
+    },
+    "footer": {
+        "contact": {
+            "title": "聯絡我們",
+            "email": ""
+        },
+        "social": {
+            "title": "游承修教授研究團隊",
+            "github": ""
+        },
+        "links": {
+            "title": "相關連結",
+            "links": [
+                {
+                    "name": "國立臺灣科技大學",
+                    "url": "https://www.ntust.edu.tw"
+                },
+                {
+                    "name": "化學工程系",
+                    "url": "https://www.ntust.edu.tw/department/chemical-engineering"
+                }
+            ]
+        }
+    },
+    "copyright": "© 2025 化工製程技術實驗室 - 國立臺灣科技大學化學工程所"
+}
