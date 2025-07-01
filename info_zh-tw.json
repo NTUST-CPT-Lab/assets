@@ -23,13 +23,17 @@
         "pi": {
             "name": "游承修",
             "title": "助理教授",
+            "name_title": "游承修 助理教授",
+            "company": "國立臺灣科技大學",
+            "department": "化學工程系",
+            "company_department": "國立臺灣科技大學 化學工程系",
             "image": "/assets/images/c22f0676228e2a561f72724a53d418b7.png",
             "phone": "(02)2737-6614",
             "email": "chenghsiu.yu@mail.ntust.edu.tw",
             "location": "工程二館 E2-611",
             "location_link": "https://maps.app.goo.gl/AAnKas88YL7VsKne8",
             "google_scholar": "https://scholar.google.com/scholar?q=游承修",
-            "description": "指導教授描述"
+            "description": "游承修教授專研於化學工程製程技術，尤其專注於二氧化碳捕捉、熱物性質量測、相平衡研究與製程強化等領域。擁有豐富的學術研究與產業合作經驗，致力於開發永續且高效能的化工技術。"
         },
         "description": "致力於二氧化碳捕捉、熱物性質量測、相平衡模擬及製程強化的尖端研究",
         "members_order": ["碩二", "碩一", "碩零", "專題生", "已畢業"],
@@ -219,13 +223,16 @@
             "title": "公告欄",
             "content": "歡迎來到我們的實驗室網站！我們將定期更新最新消息和研究成果，敬請關注！"
         },
-        "activities": [
-            {
-                "title": "實驗室活動",
-                "description": "我們定期舉辦各種學術交流活動，包括研討會、工作坊和實驗室開放日，歡迎大家參加！",
-                "image": "/assets/activities/45df9cd1f11579aac2d9455d8da83df2.jpg"
-            }
-        ]
+        "activities": {
+            "title": "活動花絮",
+            "carousel": [
+                {
+                    "title": "實驗室活動",
+                    "description": "我們定期舉辦各種學術交流活動，包括研討會、工作坊和實驗室開放日，歡迎大家參加！",
+                    "image": "/assets/activities/45df9cd1f11579aac2d9455d8da83df2.jpg"
+                }
+            ]
+        }
     },
     "research": {
         "title": "研究領域",
@@ -297,6 +304,100 @@
                 }
             ]
         }
+    },
+    "pi": {
+        "bio": {
+            "title": "主持教授",
+            "education": {
+                "title": "學歷",
+                "list": [
+                    {
+                        "university": "國立清華大學",
+                        "field": "化學工程系",
+                        "degree": "博士",
+                        "field_degree": "化學工程博士"
+                    },
+                    {
+                        "university": "中原大學",
+                        "field": "化學工程系",
+                        "degree": "碩士",
+                        "field_degree": "化學工程碩士"
+                    },
+                    {
+                        "university": "中原大學",
+                        "field": "化學工程系",
+                        "degree": "學士",
+                        "field_degree": "化學工程學士"
+                    }
+                ]
+            },
+            "work": {
+                "title": "工作經歷",
+                "list": [
+                    {
+                        "company": "國立臺灣科技大學",
+                        "department": "化學工程系",
+                        "position": "助理教授",
+                        "duration": "2022/08 - 迄今"
+                    },
+                    {
+                        "company": "中國鋼鐵股份有限公司",
+                        "department": "T72",
+                        "position": "工程師",
+                        "duration": "2021/2 - 2022/7"
+                    },
+                    {
+                        "company": "Texas Tech University",
+                        "department": "Chemical Engineering",
+                        "position": "博士後研究員",
+                        "duration": "2019/7 - 2021/1"
+                    },
+                    {
+                        "company": "典仲有限公司",
+                        "department": "",
+                        "position": "製程發展工程師",
+                        "duration": "2017/12 - 2019/5"
+                    },
+                    {
+                        "company": "Texas Tech University",
+                        "department": "Chemical Engineering",
+                        "position": "博士後研究員",
+                        "duration": "2016/10 - 2017/10"
+                    }
+                ]
+            }
+        }
+    },
+    "publications": {
+        "title": "文獻發表",
+        "search": {
+            "placeholder": "搜尋論文..."
+        },
+        "filter": {
+            "year": "年份",
+            "all": "全部"
+        },
+        "list": [
+            {
+                "title": "Development of novel adsorbents for selective CO2 capture from flue gas",
+                "authors": "You, C.S., Wang, D.M., Lin, X.H., Chen, Y.Z.",
+                "journal": "Journal of CO2 Utilization",
+                "year": 2024,
+                "volume": "45",
+                "pages": "123-135",
+                "tags": [
+                    {
+                        "name": "二氧化碳捕捉",
+                        "color": "rgba(40, 167, 69, 0.8)"
+                    },
+                    {
+                        "name": "吸附材料",
+                        "color": "rgba(0, 123, 255, 0.8)"
+                    }
+                ],
+                "link": "https://doi.org/10.1016/j.cej.2024.123456"
+            }
+        ]
     },
     "footer": {
         "contact": {
