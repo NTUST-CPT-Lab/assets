@@ -47,8 +47,7 @@
                 "email_edu": "M11206050@mail.ntust.edu.tw",
                 "research": "Blade & baffles RPB模擬及Hydraulic 分析",
                 "bio": ""
-            },
-            {
+            }, {
                 "name": "羅玥騏",
                 "titles": ["碩二"],
                 "image": "/assets/images/e46204931e33ecfbebd47f7796c8c312.jpeg",
@@ -56,8 +55,7 @@
                 "email_edu": "M11206113@mail.ntust.edu.tw",
                 "research": "使用Aspen Plus進行二氧化碳捕捉模擬操作以及質量傳遞相關研究",
                 "bio": ""
-            },
-            {
+            }, {
                 "name": "賴靖方",
                 "titles": ["碩二"],
                 "image": "/assets/images/244b52c6d270ae7fc5825536556aaa34.jpg",
@@ -65,8 +63,7 @@
                 "email_edu": "M11206142@mail.ntust.edu.tw",
                 "research": "探討旋轉填充床中CO2化學吸收之溫度分佈",
                 "bio": ""
-            },
-            {
+            }, {
                 "name": "陳佳恬",
                 "titles": ["碩二"],
                 "image": "/assets/images/cf72eb71607773a9764bf042c89928be.jpeg",
@@ -74,8 +71,7 @@
                 "email_edu": "M11206804@mail.ntust.edu.tw",
                 "research": "旋轉填充床中有效接觸面積之經驗式建立",
                 "bio": ""
-            },
-            {
+            }, {
                 "name": "吳櫂珅",
                 "titles": ["碩二"],
                 "image": "/assets/images/66473c7fc6e373ec711f7349d7553a79.jpg",
@@ -83,8 +79,7 @@
                 "email_edu": "M11206004@mail.ntust.edu.tw",
                 "research": "平衡板及質傳速率模型對旋轉填充床中之二氧化碳吸收劑再生模擬與分析",
                 "bio": ""
-            },
-            {
+            }, {
                 "name": "黃春穆",
                 "titles": ["碩一"],
                 "image": "/assets/images/1dfc06983b7bba912fd102c2badf9f6d.jpeg",
@@ -92,8 +87,7 @@
                 "email_edu": "M11306018@mail.ntust.edu.tw",
                 "research": "1.乳酸乙酯動力學模型建立<br />2.旋轉填充床產乳酸乙酯之反應蒸餾",
                 "bio": ""
-            },
-            {
+            }, {
                 "name": "周國鼎",
                 "titles": ["碩一"],
                 "image": "/assets/images/eb9349b693bea4715ed9e4574431890e.jpeg",
@@ -101,8 +95,7 @@
                 "email_edu": "M11306114@mail.ntust.edu.tw",
                 "research": "旋轉填充床吸收碳捕捉技術與質傳性能分析",
                 "bio": ""
-            },
-            {
+            }, {
                 "name": "蕭于紘",
                 "titles": ["碩一"],
                 "image": "/assets/images/e8ed04c12674693952c107c5daf007bb.jpg",
@@ -110,8 +103,7 @@
                 "email_edu": "M11306003@mail.ntust.edu.tw",
                 "research": "鑑定NaOAc於H2O-ACN混合溶劑之晶型，探討不同溶劑組成比例、系統溫度等變因對NaOAc晶型的影響",
                 "bio": ""
-            },
-            {
+            }, {
                 "name": "沈謀雄",
                 "titles": ["碩一"],
                 "image": "/assets/images/6759a00dce36f47955202537ef57045e.jpeg",
@@ -119,8 +111,7 @@
                 "email_edu": "M11306804@mail.ntust.edu.tw",
                 "research": "Effects of Viscosity on Mass Transfer Coefficient in a Rotating Packed Bed",
                 "bio": ""
-            },
-            {
+            }, {
                 "name": "林柏陞",
                 "titles": ["碩一"],
                 "image": "/assets/images/062705272e19e365ee400ffa8b314c2e.png",
@@ -128,8 +119,7 @@
                 "email_edu": "M11306041@mail.ntust.edu.tw",
                 "research": "強鹼溶液於超重力旋轉床進行碳捕捉之模擬",
                 "bio": ""
-            },
-            {
+            }, {
                 "name": "黃凱稘",
                 "titles": ["碩零"],
                 "image": "/assets/images/6b9745b80e0a70f7300e51940ec34d59.jpeg",
@@ -137,8 +127,7 @@
                 "email_edu": "",
                 "research": "",
                 "bio": ""
-            },
-            {
+            }, {
                 "name": "李柔靚",
                 "titles": ["碩零"],
                 "image": "/assets/images/4eaef7478509a35cad9c5bcf94cf743e.jpeg",
@@ -146,8 +135,7 @@
                 "email_edu": "B11006129@mail.ntust.edu.tw",
                 "research": "MEA 溶劑的再生",
                 "bio": ""
-            },
-            {
+            }, {
                 "name": "林芷誼",
                 "titles": ["碩零"],
                 "image": "/assets/images/3dbe79e6dfabb25e46ba2d0fb130cf4b.jpg",
@@ -379,186 +367,6 @@
         },
         "list": [
             {
-                "title": "A review of CO<sub>2</sub> capture by absorption and adsorption",
-                "authors": ["Cheng-Hsiu Yu", "Chih-Hung Huang", "Chung-Sung Tan"],
-                "journal": "Aerosol and air quality research",
-                "month": 11,
-                "year": 2024,
-                "volume": 12,
-                "pages": "745-769",
-                "tags": [
-                    { "name": "二氧化碳捕捉", "color": "rgba(40, 167, 69, 0.8)" }
-                ],
-                "link": "https://link.springer.com/article/10.4209/aaqr.2012.05.0132",
-                "google_scholar": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=B6nyxakAAAAJ:d1gkVwhDpl0C"
-            },
-            {
-                "title": "CO<sub>2</sub> capture by alkanolamine solutions containing diethylenetriamine and piperazine in a rotating packed bed",
-                "authors": ["Cheng-Hsiu Yu", "Hsu-Hsiang Cheng", "Chung-Sung Tan"],
-                "journal": "International Journal of Greenhouse Gas Control",
-                "month": 7,
-                "year": 2012,
-                "volume": 9,
-                "pages": "136-147",
-                "tags": [
-                    { "name": "二氧化碳捕捉", "color": "rgba(40, 167, 69, 0.8)" }
-                ],
-                "link": "https://www.sciencedirect.com/science/article/pii/S175058361200076X",
-                "google_scholar": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=B6nyxakAAAAJ:2osOgNQ5qMEC"
-            },
-            {
-                "title": "CO<sub>2</sub> capture by piperazine mixed with non-aqueous solvent diethylene glycol in a rotating packed bed",
-                "authors": ["Cheng-Hsiu Yu", "Tsai-Wei Wu", "Chung-Sung Tan"],
-                "journal": "International Journal of Greenhouse Gas Control",
-                "month": 11,
-                "year": 2013,
-                "volume": 19,
-                "pages": "503-509",
-                "tags": [
-                    { "name": "二氧化碳捕捉", "color": "rgba(40, 167, 69, 0.8)" }
-                ],
-                "link": "https://www.sciencedirect.com/science/article/pii/S175058361200076X",
-                "google_scholar": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=B6nyxakAAAAJ:qjMakFHDy7sC"
-            },
-            {
-                "title": "Modelling and design of carbon dioxide absorption in rotating packed bed and packed column",
-                "authors": [
-                    "Matt Thiels",
-                    "David SH Wong",
-                    "Cheng-Hsiu Yu",
-                    "Jia-Lin Kang",
-                    "Shi Shang Jang",
-                    "Chung-San Tan"
-                ],
-                "journal": "IFAC-PapersOnLine",
-                "month": 1,
-                "year": 2016,
-                "volume": 49,
-                "pages": "895-900",
-                "tags": [
-                    { "name": "二氧化碳捕捉", "color": "rgba(40, 167, 69, 0.8)" }
-                ],
-                "link": "https://www.sciencedirect.com/science/article/pii/S2405896316305109",
-                "google_scholar": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=B6nyxakAAAAJ:W7OEmFMy1HYC"
-            },
-            {
-                "title": "Mixed alkanolamines with low regeneration energy for CO<sub>2</sub> capture in a rotating packed bed",
-                "authors": ["Cheng-Hsiu Yu", "Chung-Sung Tan"],
-                "journal": "Energy Procedia",
-                "month": 1,
-                "year": 2013,
-                "volume": 37,
-                "pages": "455-460",
-                "tags": [
-                    { "name": "二氧化碳捕捉", "color": "rgba(40, 167, 69, 0.8)" }
-                ],
-                "link": "https://www.sciencedirect.com/science/article/pii/S1876610213001410",
-                "google_scholar": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=B6nyxakAAAAJ:UeHWp8X0CEIC"
-            },
-            {
-                "title": "Effects of process configurations for combination of rotating packed bed and packed bed on CO<sub>2</sub> capture",
-                "authors": [
-                    "Cheng-Hsiu Yu",
-                    "Ming-Tsz Chen",
-                    "Hao Chen",
-                    "Chung-Sung Tan"
-                ],
-                "journal": "Applied Energy",
-                "month": 8,
-                "year": 2016,
-                "volume": 175,
-                "pages": "269-276",
-                "tags": [
-                    { "name": "二氧化碳捕捉", "color": "rgba(40, 167, 69, 0.8)" }
-                ],
-                "link": "https://www.sciencedirect.com/science/article/pii/S0306261916306389",
-                "google_scholar": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=B6nyxakAAAAJ:Tyk-4Ss8FVUC"
-            },
-            {
-                "title": "Modeling fluid phase equilibria of carbon dioxide-methanol binary system",
-                "authors": [
-                    "Cheng-Hsiu Yu",
-                    "Yu-Jeng Lin",
-                    "David Shan-Hill Wong",
-                    "Juan Carles Bruno",
-                    "Chau-Chyun Chen"
-                ],
-                "journal": "Fluid Phase Equilibria",
-                "month": 2,
-                "year": 2021,
-                "volume": 529,
-                "tags": [
-                    { "name": "相平衡量測與模擬", "color": "rgba(23, 162, 184, 0.8)" }
-                ],
-                "link": "https://www.sciencedirect.com/science/article/pii/S0378381220304155",
-                "google_scholar": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=B6nyxakAAAAJ:ufrVoPGSRksC"
-            },
-            {
-                "title": "Process Modeling of CO<sub>2</sub> Absorption with Monoethanolamine Aqueous Solutions Using Rotating Packed Beds",
-                "authors": [
-                    "Cheng-Hsiu Yu",
-                    "Yu-Jeng Lin",
-                    "David Shan-Hill Wong",
-                    "Chau-Chyun Chen"
-                ],
-                "journal": "Industrial & Engineering Chemistry Research",
-                "month": 2,
-                "year": 2022,
-                "volume": 64,
-                "pages": "12142-12152",
-                "tags": [
-                    { "name": "二氧化碳捕捉", "color": "rgba(40, 167, 69, 0.8)" }
-                ],
-                "link": "https://pubs.acs.org/doi/full/10.1021/acs.iecr.1c04323",
-                "google_scholar": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=B6nyxakAAAAJ:UebtZRa9Y70C"
-            },
-            {
-                "title": "Effects of inorganic salts on absorption of CO<sub>2</sub> and O<sub>2</sub> for absorbents containing diethylenetriamine and piperazine",
-                "authors": ["Cheng-Hsiu Yu", "Yu-Xiao Lin", "Chung-Sung Tan"],
-                "journal": "International Journal of Greenhouse Gas Control",
-                "month": 11,
-                "year": 2014,
-                "volume": 30,
-                "pages": "118-124",
-                "tags": [
-                    { "name": "二氧化碳捕捉", "color": "rgba(40, 167, 69, 0.8)" }
-                ],
-                "link": "https://www.sciencedirect.com/science/article/pii/S1750583614002539",
-                "google_scholar": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=B6nyxakAAAAJ:IjCSPb-OGe4C"
-            },
-            {
-                "title": "CO<sub>2</sub> capture by aqueous solution containing mixed alkanolamines and diethylene glycol in a rotating packed bed",
-                "authors": ["Cheng-Hsiu Yu", "Chung-Sung Tan"],
-                "journal": "Energy Procedia",
-                "month": 1,
-                "year": 2014,
-                "volume": 63,
-                "pages": "758-764",
-                "tags": [
-                    { "name": "二氧化碳捕捉", "color": "rgba(40, 167, 69, 0.8)" }
-                ],
-                "link": "https://www.sciencedirect.com/science/article/pii/S1876610214018992",
-                "google_scholar": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=B6nyxakAAAAJ:zYLM7Y9cAGgC"
-            },
-            {
-                "title": "Thermodynamic Modeling of Aqueous and Mixed Solvent Electrolyte Systems",
-                "authors": [
-                    "Benjamin Caudle",
-                    "Toni E Kirkes",
-                    "Cheng‐Hsiu Yu",
-                    "Chau‐Chyun Chen"
-                ],
-                "journal": "Chemical Engineering in the Pharmaceutical Industry: Active Pharmaceutical Ingredients",
-                "month": 3,
-                "year": 2019,
-                "pages": "493-504",
-                "tags": [
-                    {"name": "熱物性質量測及模型建立", "color": "rgba(255, 193, 7, 0.8)"}
-                ],
-                "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119600800.ch21",
-                "google_scholar": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=B6nyxakAAAAJ:Se3iqnhoufwC"
-            },
-            {
                 "title": "Solubility of Sodium Acetate in a Water+ Acetonitrile Binary Solvent System and the Mixture Density",
                 "authors": ["Tien-Yu Hu", "Cheng-Hsiu Yu"],
                 "journal": "Journal of Chemical & Engineering Data",
@@ -601,6 +409,186 @@
                 ],
                 "link": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5071426",
                 "google_scholar": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=B6nyxakAAAAJ:5nxA0vEk-isC"
+            },
+            {
+                "title": "A review of CO<sub>2</sub> capture by absorption and adsorption",
+                "authors": ["Cheng-Hsiu Yu", "Chih-Hung Huang", "Chung-Sung Tan"],
+                "journal": "Aerosol and air quality research",
+                "month": 11,
+                "year": 2024,
+                "volume": 12,
+                "pages": "745-769",
+                "tags": [
+                    { "name": "二氧化碳捕捉", "color": "rgba(40, 167, 69, 0.8)" }
+                ],
+                "link": "https://link.springer.com/article/10.4209/aaqr.2012.05.0132",
+                "google_scholar": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=B6nyxakAAAAJ:d1gkVwhDpl0C"
+            },
+            {
+                "title": "Process Modeling of CO<sub>2</sub> Absorption with Monoethanolamine Aqueous Solutions Using Rotating Packed Beds",
+                "authors": [
+                    "Cheng-Hsiu Yu",
+                    "Yu-Jeng Lin",
+                    "David Shan-Hill Wong",
+                    "Chau-Chyun Chen"
+                ],
+                "journal": "Industrial & Engineering Chemistry Research",
+                "month": 2,
+                "year": 2022,
+                "volume": 64,
+                "pages": "12142-12152",
+                "tags": [
+                    { "name": "二氧化碳捕捉", "color": "rgba(40, 167, 69, 0.8)" }
+                ],
+                "link": "https://pubs.acs.org/doi/full/10.1021/acs.iecr.1c04323",
+                "google_scholar": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=B6nyxakAAAAJ:UebtZRa9Y70C"
+            },
+            {
+                "title": "Modeling fluid phase equilibria of carbon dioxide-methanol binary system",
+                "authors": [
+                    "Cheng-Hsiu Yu",
+                    "Yu-Jeng Lin",
+                    "David Shan-Hill Wong",
+                    "Juan Carles Bruno",
+                    "Chau-Chyun Chen"
+                ],
+                "journal": "Fluid Phase Equilibria",
+                "month": 2,
+                "year": 2021,
+                "volume": 529,
+                "tags": [
+                    { "name": "相平衡量測與模擬", "color": "rgba(23, 162, 184, 0.8)" }
+                ],
+                "link": "https://www.sciencedirect.com/science/article/pii/S0378381220304155",
+                "google_scholar": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=B6nyxakAAAAJ:ufrVoPGSRksC"
+            },
+            {
+                "title": "Thermodynamic Modeling of Aqueous and Mixed Solvent Electrolyte Systems",
+                "authors": [
+                    "Benjamin Caudle",
+                    "Toni E Kirkes",
+                    "Cheng‐Hsiu Yu",
+                    "Chau‐Chyun Chen"
+                ],
+                "journal": "Chemical Engineering in the Pharmaceutical Industry: Active Pharmaceutical Ingredients",
+                "month": 3,
+                "year": 2019,
+                "pages": "493-504",
+                "tags": [
+                    {"name": "熱物性質量測及模型建立", "color": "rgba(255, 193, 7, 0.8)"}
+                ],
+                "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119600800.ch21",
+                "google_scholar": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=B6nyxakAAAAJ:Se3iqnhoufwC"
+            },
+            {
+                "title": "Effects of process configurations for combination of rotating packed bed and packed bed on CO<sub>2</sub> capture",
+                "authors": [
+                    "Cheng-Hsiu Yu",
+                    "Ming-Tsz Chen",
+                    "Hao Chen",
+                    "Chung-Sung Tan"
+                ],
+                "journal": "Applied Energy",
+                "month": 8,
+                "year": 2016,
+                "volume": 175,
+                "pages": "269-276",
+                "tags": [
+                    { "name": "二氧化碳捕捉", "color": "rgba(40, 167, 69, 0.8)" }
+                ],
+                "link": "https://www.sciencedirect.com/science/article/pii/S0306261916306389",
+                "google_scholar": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=B6nyxakAAAAJ:Tyk-4Ss8FVUC"
+            },
+            {
+                "title": "Modelling and design of carbon dioxide absorption in rotating packed bed and packed column",
+                "authors": [
+                    "Matt Thiels",
+                    "David SH Wong",
+                    "Cheng-Hsiu Yu",
+                    "Jia-Lin Kang",
+                    "Shi Shang Jang",
+                    "Chung-San Tan"
+                ],
+                "journal": "IFAC-PapersOnLine",
+                "month": 1,
+                "year": 2016,
+                "volume": 49,
+                "pages": "895-900",
+                "tags": [
+                    { "name": "二氧化碳捕捉", "color": "rgba(40, 167, 69, 0.8)" }
+                ],
+                "link": "https://www.sciencedirect.com/science/article/pii/S2405896316305109",
+                "google_scholar": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=B6nyxakAAAAJ:W7OEmFMy1HYC"
+            },
+            {
+                "title": "Effects of inorganic salts on absorption of CO<sub>2</sub> and O<sub>2</sub> for absorbents containing diethylenetriamine and piperazine",
+                "authors": ["Cheng-Hsiu Yu", "Yu-Xiao Lin", "Chung-Sung Tan"],
+                "journal": "International Journal of Greenhouse Gas Control",
+                "month": 11,
+                "year": 2014,
+                "volume": 30,
+                "pages": "118-124",
+                "tags": [
+                    { "name": "二氧化碳捕捉", "color": "rgba(40, 167, 69, 0.8)" }
+                ],
+                "link": "https://www.sciencedirect.com/science/article/pii/S1750583614002539",
+                "google_scholar": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=B6nyxakAAAAJ:IjCSPb-OGe4C"
+            },
+            {
+                "title": "CO<sub>2</sub> capture by aqueous solution containing mixed alkanolamines and diethylene glycol in a rotating packed bed",
+                "authors": ["Cheng-Hsiu Yu", "Chung-Sung Tan"],
+                "journal": "Energy Procedia",
+                "month": 1,
+                "year": 2014,
+                "volume": 63,
+                "pages": "758-764",
+                "tags": [
+                    { "name": "二氧化碳捕捉", "color": "rgba(40, 167, 69, 0.8)" }
+                ],
+                "link": "https://www.sciencedirect.com/science/article/pii/S1876610214018992",
+                "google_scholar": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=B6nyxakAAAAJ:zYLM7Y9cAGgC"
+            },
+            {
+                "title": "CO<sub>2</sub> capture by piperazine mixed with non-aqueous solvent diethylene glycol in a rotating packed bed",
+                "authors": ["Cheng-Hsiu Yu", "Tsai-Wei Wu", "Chung-Sung Tan"],
+                "journal": "International Journal of Greenhouse Gas Control",
+                "month": 11,
+                "year": 2013,
+                "volume": 19,
+                "pages": "503-509",
+                "tags": [
+                    { "name": "二氧化碳捕捉", "color": "rgba(40, 167, 69, 0.8)" }
+                ],
+                "link": "https://www.sciencedirect.com/science/article/pii/S175058361200076X",
+                "google_scholar": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=B6nyxakAAAAJ:qjMakFHDy7sC"
+            },
+            {
+                "title": "Mixed alkanolamines with low regeneration energy for CO<sub>2</sub> capture in a rotating packed bed",
+                "authors": ["Cheng-Hsiu Yu", "Chung-Sung Tan"],
+                "journal": "Energy Procedia",
+                "month": 1,
+                "year": 2013,
+                "volume": 37,
+                "pages": "455-460",
+                "tags": [
+                    { "name": "二氧化碳捕捉", "color": "rgba(40, 167, 69, 0.8)" }
+                ],
+                "link": "https://www.sciencedirect.com/science/article/pii/S1876610213001410",
+                "google_scholar": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=B6nyxakAAAAJ:UeHWp8X0CEIC"
+            },
+            {
+                "title": "CO<sub>2</sub> capture by alkanolamine solutions containing diethylenetriamine and piperazine in a rotating packed bed",
+                "authors": ["Cheng-Hsiu Yu", "Hsu-Hsiang Cheng", "Chung-Sung Tan"],
+                "journal": "International Journal of Greenhouse Gas Control",
+                "month": 7,
+                "year": 2012,
+                "volume": 9,
+                "pages": "136-147",
+                "tags": [
+                    { "name": "二氧化碳捕捉", "color": "rgba(40, 167, 69, 0.8)" }
+                ],
+                "link": "https://www.sciencedirect.com/science/article/pii/S175058361200076X",
+                "google_scholar": "https://scholar.google.com/citations?view_op=view_citation&citation_for_view=B6nyxakAAAAJ:2osOgNQ5qMEC"
             }
         ]
     },
