@@ -362,8 +362,9 @@
             "placeholder": "搜尋論文..."
         },
         "filter": {
+            "all": "全部",
             "year": "年份",
-            "all": "全部"
+            "tag": "分類標籤"
         },
         "list": [
             {
