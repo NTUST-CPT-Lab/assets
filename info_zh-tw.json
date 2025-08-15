@@ -1,4 +1,25 @@
 {
+    "datetime": {
+        "parser": {
+            "year": "%YEAR%-1911",
+            "month": "%MONTH%",
+            "day": "%DAY%",
+            "hour": "%HOUR%",
+            "minute": "%MINUTE%",
+            "second": "%SECOND%"
+        },
+        "format": {
+            "year": "民國 %Y 年",
+            "month": "%m 月",
+            "day": "%d 日",
+            "hour": "%H 時",
+            "minute": "%M 分",
+            "second": "%S 秒",
+            "year_month": "民國 %Y 年 %m 月",
+            "month_day": "%m 月 %d 日",
+            "year_month_day": "民國 %Y 年 %m 月 %d 日"
+        }
+    },
     "lab": {
         "name": "化工製程技術實驗室",
         "phone": "(02)2733-3141#7605",
@@ -36,8 +57,6 @@
             "description": "游承修教授專研於化學工程製程技術，尤其專注於二氧化碳捕捉、熱物性質量測、相平衡研究與製程強化等領域。擁有豐富的學術研究與產業合作經驗，致力於開發永續且高效能的化工技術。"
         },
         "description": "致力於二氧化碳捕捉、熱物性質量測、相平衡模擬及製程強化的尖端研究",
-        "members_order": ["碩二", "碩一", "碩零", "專題生", "已畢業"],
-        "members_all": "全部",
         "members": [
             {
                 "name": "黃光峻",
@@ -208,8 +227,7 @@
             ]
         },
         "announcement": {
-            "title": "公告欄",
-            "content": "歡迎來到我們的實驗室網站！我們將定期更新最新消息和研究成果，敬請關注！"
+            "title": "公告欄"
         },
         "activities": {
             "title": "活動花絮",
@@ -354,6 +372,11 @@
                     }
                 ]
             }
+        }
+    },
+    "members": {
+        "filter": {
+            "all": "全部"
         }
     },
     "publications": {
