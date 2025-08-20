@@ -1,12 +1,14 @@
 {
     "datetime": {
+        "default_timezone": 480,
         "parser": {
             "year": "%YEAR%-1911",
             "month": "%MONTH%",
             "day": "%DAY%",
             "hour": "%HOUR%",
             "minute": "%MINUTE%",
-            "second": "%SECOND%"
+            "second": "%SECOND%",
+            "timezone": "%TIMEZONE%+480"
         },
         "format": {
             "year": "民國 %Y 年",
@@ -15,6 +17,7 @@
             "hour": "%H 時",
             "minute": "%M 分",
             "second": "%S 秒",
+            "microsecond": "%f 微秒",
             "year_month": "民國 %Y 年 %m 月",
             "month_day": "%m 月 %d 日",
             "year_month_day": "民國 %Y 年 %m 月 %d 日"
@@ -227,7 +230,62 @@
             ]
         },
         "announcement": {
-            "title": "公告欄"
+            "title": "公告欄",
+            "list": [
+                {
+                    "pinned": true,
+                    "date": {
+                        "year": 2025,
+                        "month": 1,
+                        "day": 15
+                    },
+                    "tags": [
+                        {"name": "重要", "color": "rgba(255, 193, 7, 0.8)"}
+                    ],
+                    "title": "2025年暑期研究計畫申請開始",
+                    "description": "暑期研究計畫申請即日起開放，歡迎對二氧化碳捕捉、熱物性質量測等研究領域有興趣的同學踴躍申請。申請截止日期為7月1日。",
+                    "details": "詳情請參閱實驗室網站或聯繫游教授。",
+                    "poster": "游承修教授"
+                }
+            ],
+            "calendar": {
+                "title": "實驗室行事曆",
+                "list": [
+                    {
+                        "date": {
+                            "year": 2025,
+                            "month": 1,
+                            "day": 15
+                        },
+                        "tasks": [
+                            "實驗室開放日",
+                            "歡迎參觀我們的研究設施"
+                        ]
+                    },
+                    {
+                        "date": {
+                            "year": 2025,
+                            "month": 2,
+                            "day": 20
+                        },
+                        "tasks": [
+                            "研究生招生簡章發布",
+                            "詳情請參閱學校網站"
+                        ]
+                    },
+                    {
+                        "date": {
+                            "year": 2025,
+                            "month": 3,
+                            "day": 10
+                        },
+                        "tasks": [
+                            "實驗室安全培訓",
+                            "所有新成員必須參加"
+                        ]
+                    }
+                ]
+            }
         },
         "activities": {
             "title": "活動花絮",
@@ -375,6 +433,7 @@
         }
     },
     "members": {
+        "title": "實驗室成員",
         "filter": {
             "all": "全部"
         }
