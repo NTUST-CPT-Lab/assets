@@ -1,4 +1,9 @@
 {
+    "title": {
+        "format": "%s｜%l",
+        "subformat": "%n－%t",
+        "trimming":["｜", "－", "|", "-", " "]
+    },
     "datetime": {
         "default_timezone": 480,
         "parser": {
@@ -44,6 +49,7 @@
             "name": "化學工程系",
             "website": "https://www.ntust.edu.tw/department/chemical-engineering"
         },
+        "college_department": "國立臺灣科技大學化學工程所",
         "pi": {
             "name": "游承修",
             "title": "助理教授",
