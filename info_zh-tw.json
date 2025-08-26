@@ -69,48 +69,8 @@
         "description": "致力於二氧化碳捕捉、熱物性質量測、相平衡模擬及製程強化的尖端研究",
         "members": [
             {
-                "name": "黃光峻",
-                "titles": ["碩二"],
-                "image": "/assets/images/94cae135371bf637a8023f9aad3923a8.jpg",
-                "email": "11206qazwsxedc@gmail.com",
-                "email_edu": "M11206050@mail.ntust.edu.tw",
-                "research": "Blade & baffles RPB模擬及Hydraulic 分析",
-                "bio": ""
-            }, {
-                "name": "羅玥騏",
-                "titles": ["碩二"],
-                "image": "/assets/images/e46204931e33ecfbebd47f7796c8c312.jpeg",
-                "email": "luo5718805@gmail.com",
-                "email_edu": "M11206113@mail.ntust.edu.tw",
-                "research": "使用Aspen Plus進行二氧化碳捕捉模擬操作以及質量傳遞相關研究",
-                "bio": ""
-            }, {
-                "name": "賴靖方",
-                "titles": ["碩二"],
-                "image": "/assets/images/244b52c6d270ae7fc5825536556aaa34.jpg",
-                "email": "jingfang0221@gmail.com",
-                "email_edu": "M11206142@mail.ntust.edu.tw",
-                "research": "探討旋轉填充床中CO2化學吸收之溫度分佈",
-                "bio": ""
-            }, {
-                "name": "陳佳恬",
-                "titles": ["碩二"],
-                "image": "/assets/images/cf72eb71607773a9764bf042c89928be.jpeg",
-                "email": "Jiatean@gmail.com",
-                "email_edu": "M11206804@mail.ntust.edu.tw",
-                "research": "旋轉填充床中有效接觸面積之經驗式建立",
-                "bio": ""
-            }, {
-                "name": "吳櫂珅",
-                "titles": ["碩二"],
-                "image": "/assets/images/66473c7fc6e373ec711f7349d7553a79.jpg",
-                "email": "sean890728@gmail.com",
-                "email_edu": "M11206004@mail.ntust.edu.tw",
-                "research": "平衡板及質傳速率模型對旋轉填充床中之二氧化碳吸收劑再生模擬與分析",
-                "bio": ""
-            }, {
                 "name": "黃春穆",
-                "titles": ["碩一"],
+                "titles": ["碩二"],
                 "image": "/assets/images/1dfc06983b7bba912fd102c2badf9f6d.jpeg",
                 "email": "murry901028@gmail.com",
                 "email_edu": "M11306018@mail.ntust.edu.tw",
@@ -118,7 +78,7 @@
                 "bio": ""
             }, {
                 "name": "周國鼎",
-                "titles": ["碩一"],
+                "titles": ["碩二"],
                 "image": "/assets/images/eb9349b693bea4715ed9e4574431890e.jpeg",
                 "email": "a37939922@gmail.com",
                 "email_edu": "M11306114@mail.ntust.edu.tw",
@@ -126,7 +86,7 @@
                 "bio": ""
             }, {
                 "name": "蕭于紘",
-                "titles": ["碩一"],
+                "titles": ["碩二"],
                 "image": "/assets/images/e8ed04c12674693952c107c5daf007bb.jpg",
                 "email": "chris901114@gmail.com",
                 "email_edu": "M11306003@mail.ntust.edu.tw",
@@ -134,7 +94,7 @@
                 "bio": ""
             }, {
                 "name": "沈謀雄",
-                "titles": ["碩一"],
+                "titles": ["碩二"],
                 "image": "/assets/images/6759a00dce36f47955202537ef57045e.jpeg",
                 "email": "joesephm49@gmail.com",
                 "email_edu": "M11306804@mail.ntust.edu.tw",
@@ -142,7 +102,7 @@
                 "bio": ""
             }, {
                 "name": "林柏陞",
-                "titles": ["碩一"],
+                "titles": ["碩二"],
                 "image": "/assets/images/062705272e19e365ee400ffa8b314c2e.png",
                 "email": "ascz0961184828@gmail.com",
                 "email_edu": "M11306041@mail.ntust.edu.tw",
@@ -150,7 +110,7 @@
                 "bio": ""
             }, {
                 "name": "黃凱稘",
-                "titles": ["碩零"],
+                "titles": ["碩一"],
                 "image": "/assets/images/6b9745b80e0a70f7300e51940ec34d59.jpeg",
                 "email": "kelly98099@gmail.com",
                 "email_edu": "",
@@ -158,7 +118,7 @@
                 "bio": ""
             }, {
                 "name": "李柔靚",
-                "titles": ["碩零"],
+                "titles": ["碩一"],
                 "image": "/assets/images/4eaef7478509a35cad9c5bcf94cf743e.jpeg",
                 "email": "mirojing22@gmail.com",
                 "email_edu": "B11006129@mail.ntust.edu.tw",
@@ -166,11 +126,51 @@
                 "bio": ""
             }, {
                 "name": "林芷誼",
-                "titles": ["碩零"],
+                "titles": ["碩一"],
                 "image": "/assets/images/3dbe79e6dfabb25e46ba2d0fb130cf4b.jpg",
                 "email": "chih.yi.0918@gmail.com",
                 "email_edu": "B11006117@mail.ntust.edu.tw",
                 "research": "相平衡不確定性對蒸餾製程的影響",
+                "bio": ""
+            }, {
+                "name": "黃光峻",
+                "titles": ["已畢業"],
+                "image": "/assets/images/94cae135371bf637a8023f9aad3923a8.jpg",
+                "email": "11206qazwsxedc@gmail.com",
+                "email_edu": "M11206050@mail.ntust.edu.tw",
+                "research": "Blade & baffles RPB模擬及Hydraulic 分析",
+                "bio": ""
+            }, {
+                "name": "羅玥騏",
+                "titles": ["已畢業"],
+                "image": "/assets/images/e46204931e33ecfbebd47f7796c8c312.jpeg",
+                "email": "luo5718805@gmail.com",
+                "email_edu": "M11206113@mail.ntust.edu.tw",
+                "research": "使用Aspen Plus進行二氧化碳捕捉模擬操作以及質量傳遞相關研究",
+                "bio": ""
+            }, {
+                "name": "賴靖方",
+                "titles": ["已畢業"],
+                "image": "/assets/images/244b52c6d270ae7fc5825536556aaa34.jpg",
+                "email": "jingfang0221@gmail.com",
+                "email_edu": "M11206142@mail.ntust.edu.tw",
+                "research": "探討旋轉填充床中CO2化學吸收之溫度分佈",
+                "bio": ""
+            }, {
+                "name": "陳佳恬",
+                "titles": ["已畢業"],
+                "image": "/assets/images/cf72eb71607773a9764bf042c89928be.jpeg",
+                "email": "Jiatean@gmail.com",
+                "email_edu": "M11206804@mail.ntust.edu.tw",
+                "research": "旋轉填充床中有效接觸面積之經驗式建立",
+                "bio": ""
+            }, {
+                "name": "吳櫂珅",
+                "titles": ["已畢業"],
+                "image": "/assets/images/66473c7fc6e373ec711f7349d7553a79.jpg",
+                "email": "sean890728@gmail.com",
+                "email_edu": "M11206004@mail.ntust.edu.tw",
+                "research": "平衡板及質傳速率模型對旋轉填充床中之二氧化碳吸收劑再生模擬與分析",
                 "bio": ""
             }, {
                 "name": "陸瑋倫",
@@ -700,7 +700,7 @@
         },
         "social": {
             "title": "游承修教授研究團隊",
-            "github": ""
+            "github": "https://github.com/NTUST-CT-Lab"
         },
         "links": {
             "title": "相關連結",
